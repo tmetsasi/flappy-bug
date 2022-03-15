@@ -1,0 +1,10 @@
+2022.03.15 14:42:17 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\tomas\Downloads\Flappy-Bug\.metals\lsp.trace.json or C:\Users\tomas\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.03.15 14:42:18 INFO  logging to file C:\Users\tomas\Downloads\Flappy-Bug\.metals\metals.log
+2022.03.15 14:42:18 INFO  Started: Metals version 0.11.2 in workspace 'C:\Users\tomas\Downloads\Flappy-Bug' for client Visual Studio Code 1.65.2.
+2022.03.15 14:42:18 INFO  Parse release: 17.0.2
+2022.03.15 14:42:21 INFO  time: initialize in 2.35s
+2022.03.15 14:42:21 WARN  Build server is not auto-connectable.
+2022.03.15 14:42:21 WARN  no build tool detected in workspace 'C:\Users\tomas\Downloads\Flappy-Bug'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.03.15 14:42:23 WARN  no build target for: C:\Users\tomas\Downloads\Flappy-Bug\FlappyBugApp.scala
+2022.03.15 14:42:26 INFO  no build target found for C:\Users\tomas\Downloads\Flappy-Bug\FlappyBugApp.scala. Using presentation compiler with project's scala-library version: 3.1.1
+2022.03.15 14:42:28 INFO  time: code lens generation in 4.46s
